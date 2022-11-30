@@ -1,4 +1,4 @@
-# Ad-Classification Project
+# Ad-Click-Classification Project
 ## Logistic-Regression-Practice-Project
 
 ## Project Overview
