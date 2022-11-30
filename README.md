@@ -4,7 +4,7 @@
 ## Project Overview
 The aim of the project is to classify whether Internet user will click on the advertisement or not based on the Features in the data.
 
-<img src='https://github.com/navi1910/Logistic-Regression-Practice-Project/blob/'master'/ad-img.png' height=50% width=50%>
+<img src="https://github.com/navi1910/Logistic-Regression-Practice-Project/blob/'master'/ad-img.png" height=50% width=50%>
 
 Note: The data is fakely generated, just for Practice.
 
@@ -24,7 +24,7 @@ Note: The data is fakely generated, just for Practice.
 * Check the Correlation between the numeric values in the fields.
 * Exploratory Data Analysis is done using Visualizations of the data.
 
-<img src='https://github.com/navi1910/Logistic-Regression-Practice-Project/blob/'master'/pairplot.png' height=50% width=50%>
+<img src="https://github.com/navi1910/Logistic-Regression-Practice-Project/blob/'master'/pairplot.png" height=50% width=50%>
 
 ## Model Building
 * Separate the Features and Target variables.
@@ -36,4 +36,4 @@ Note: The data is fakely generated, just for Practice.
 ## Results
 * Various metrics are used to evaluate the model performance.
 
-<img src='https://github.com/navi1910/Logistic-Regression-Practice-Project/blob/'master'/results.png' height=50% width=50%>
+<img src="https://github.com/navi1910/Logistic-Regression-Practice-Project/blob/'master'/results.png" height=50% width=50%>
